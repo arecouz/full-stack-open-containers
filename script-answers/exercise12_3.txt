@@ -1,0 +1,15 @@
+Script started on 2024-09-18 17:09:52+01:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="117" LINES="56"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;arecouz@DESKTOP-3HI4OSQ: /mnt/c/dev/full-stack-containers/script-answers[01;32marecouz@DESKTOP-3HI4OSQ[00m:[01;34m/mnt/c/dev/full-stack-containers/script-answers[00m$ docker start -i mystifying_hertz 
+[?2004l[?2004h]0;root@73e3d6f45fa5: /root@73e3d6f45fa5:/# [K]0;root@73e3d6f45fa5: /root@73e3d6f45fa5:/# cd user/    e str  r/sc rc/app/ 
+[?2004l[?2004h]0;root@73e3d6f45fa5: /usr/src/approot@73e3d6f45fa5:/usr/src/app# t nano index.js 
+[?2004l[?2004h[?1049h[22;0;0t[1;56r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[54;52H(B[0;7m[ Reading... ](B[m[54;58H(B[0;7m 1 line ](B[m[H(B[0;7m  GNU nano 7.2 [42bindex.js [50b [1;116H(B[m[55d(B[0;7m^G(B[m Help[55;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[55;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[56d(B[0;7m^X(B[m Exit[56;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[56;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[2dconsole.log((B[0;1m[35m'hello world'[39m(B[m)[?12l[?25h[?25l[54d[J[56d[?12l[?25h[56;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;root@73e3d6f45fa5: /usr/src/approot@73e3d6f45fa5:/usr/src/app# cat index.js
+[?2004lconsole.log('hello world')
+[?2004h]0;root@73e3d6f45fa5: /usr/src/approot@73e3d6f45fa5:/usr/src/app# exit
+[?2004lexit
+[?2004h]0;arecouz@DESKTOP-3HI4OSQ: /mnt/c/dev/full-stack-containers/script-answers[01;32marecouz@DESKTOP-3HI4OSQ[00m:[01;34m/mnt/c/dev/full-stack-containers/script-answers[00m$ [?2004l
+exit
+
+Script done on 2024-09-18 17:10:27+01:00 [COMMAND_EXIT_CODE="0"]
