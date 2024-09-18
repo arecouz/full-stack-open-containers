@@ -1,0 +1,17 @@
+Script started on 2024-09-16 17:37:15+01:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="85" LINES="42"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;arecouz@DESKTOP-3HI4OSQ: /mnt/c/dev/full-stack-containers/script-answers[01;32marecouz@DESKTOP-3HI4OSQ[00m:[01;34m/mnt/c/dev/full-stack-containers/script-answers[00m$ docker conat [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kta ie[Kner run -it ubuntu bash
+[?2004l[?2004h]0;root@059cdee7d3cb: /root@059cdee7d3cb:/# cd  mkdir usr/sc rc/app
+[?2004l[?2004h]0;root@059cdee7d3cb: /root@059cdee7d3cb:/# touch use r. /se rc/app/index.js
+[?2004l[?2004h]0;root@059cdee7d3cb: /root@059cdee7d3cb:/# [Kcd use r/src/app/ind    
+[?2004l[?2004h]0;root@059cdee7d3cb: /usr/src/approot@059cdee7d3cb:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@059cdee7d3cb: /usr/src/approot@059cdee7d3cb:/usr/src/app# exit
+[?2004lexit
+[?2004h]0;arecouz@DESKTOP-3HI4OSQ: /mnt/c/dev/full-stack-containers/script-answers[01;32marecouz@DESKTOP-3HI4OSQ[00m:[01;34m/mnt/c/dev/full-stack-containers/script-answers[00m$ [?2004l
+exit
+
+Script done on 2024-09-16 17:38:56+01:00 [COMMAND_EXIT_CODE="0"]
