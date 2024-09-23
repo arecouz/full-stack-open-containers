@@ -1,3 +1,4 @@
+console.log('running mongo-init.js...');
 db.createUser({
   user: 'the_username',
   pwd: 'the_password',
@@ -13,3 +14,5 @@ db.createCollection('todos');
 
 db.todos.insert({ text: 'Write code', done: true });
 db.todos.insert({ text: 'Learn about containers', done: false });
+
+console.log('mongo db initialized');
