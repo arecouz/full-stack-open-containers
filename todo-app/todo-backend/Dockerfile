@@ -8,5 +8,4 @@ RUN npm ci
 
 USER node
 
-
 CMD npm start
