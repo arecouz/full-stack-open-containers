@@ -5,6 +5,7 @@ const router = express.Router();
 const configs = require('../util/config');
 
 let visits = 0;
+let test = 1;
 
 /* GET index data. */
 router.get('/', async (req, res) => {
@@ -13,6 +14,7 @@ router.get('/', async (req, res) => {
   res.send({
     ...configs,
     visits,
+    test,
   });
 });
 
