@@ -1,0 +1,14 @@
+# docker run -p 3001:3001 -v "$(pwd):/usr/src/app/" todo-frontend-dev
+
+services:
+  app:
+    image: todo-frontend-dev
+    build:
+      context: dev.Dockerfile
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - 3001:3001
+    container_name: todo-frontend-dev
+
+
